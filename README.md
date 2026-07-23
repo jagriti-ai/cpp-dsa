@@ -61,7 +61,7 @@ cpp-dsa/
 
 ## 📌 Note
 
-My C++ fundamentals, including **Basics**, **Patterns**, and **Functions**, are available in a separate repository named **Question Practice**.
+My C++ fundamentals, including **Basics**, **Patterns**, and **Functions**, are available in a separate repository named **Cpp Fundamentals1 and cpp fundamentals 2**.
 
 Thanks for visiting! ⭐ Feel free to explore the code and follow my learning journey.
 
